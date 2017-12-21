@@ -5,3 +5,4 @@ Git tracks changes of files.
 Createing a new branch is quick and simple.
 Add Merge.
 Test stash.
+this is a new branch.
